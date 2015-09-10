@@ -1,0 +1,13 @@
+i
+sdsdsd # move into place
+x  # place a live block
+d  # move right
+x  # place a live block
+d  # move right
+x  # place a live block
+w  # move up
+x  # place a live block
+wa # move up and left
+x  # place a live block
+..  # speed up
+r
